@@ -1,0 +1,10 @@
+a=5
+b=6
+print("Original Value of a=",a)
+print("Original Value of b=",b)
+c=0
+c=a
+a=b
+b=c
+print ("Value of b=",b)
+print ("Value of a=",a)

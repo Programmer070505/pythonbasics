@@ -1,0 +1,9 @@
+a=6
+b=5
+print("Original Value of a=",a)
+print("Original Value of b=",b)
+a=a+b
+b=a-b
+print ("Value of b=",b)
+a=a-b
+print ("Value of a=",a)
